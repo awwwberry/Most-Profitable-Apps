@@ -11,11 +11,12 @@ The goal of this project is to profile the most popular and profitable apps in b
 
 In this project, my company makes apps that are free to download and install. We rely on attracting many users to the app to earn revenue from in-app ads. Building data driven profiles will help guide our ios and Android developers on what apps to build in the future.
 
-This is a guided project from DataQuest where I practice the basics of data analysis. 
+This is a guided project from [DataQuest](https://www.dataquest.io/) where I practice the basics of data analysis. 
 
 ## Datasets <a name="datasets"></a>
 Android apps [data set](https://www.kaggle.com/lava18/google-play-store-apps) from Google Play store containing approximately 10,000 apps, collected in August 2018.
+
 iOS apps [data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) from Apple App store containing approximately 7,000 apps, collected in July 2017.
 
-## Languages
-In this project I used [Python](https://www.python.org/) language. 
+## Languages <a name="languages"></a>
+[Python](https://www.python.org/)
